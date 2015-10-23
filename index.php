@@ -1,1 +1,1 @@
-<?php echo "Bonjour à toi visiteur !"; ?>
+<?php echo strtolower("Bonjour à toi visiteur !"); ?>
